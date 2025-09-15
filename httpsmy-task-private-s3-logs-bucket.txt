@@ -1,0 +1,3 @@
+https://my-task-private-s3-logs-bucket.s3.us-west-2.amazonaws.com/demon-slayer-5120x2880-23241.jpg
+
+via this we can see the public access of the s3 bucket
